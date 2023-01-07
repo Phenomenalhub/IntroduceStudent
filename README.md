@@ -8,7 +8,7 @@ An application for student to introduce themselves
 
 ### App Walk-though
 
-<!-- <img src="https://s2.ezgif.com/save/ezgif-2-f3e4551989.gif" width=200><br> -->
+<img src="https://s2.ezgif.com/save/ezgif-2-f3e4551989.gif" width=250><br>
 
 ### Required Features
 
